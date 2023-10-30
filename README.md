@@ -1,14 +1,4 @@
-const about = {
-    name: 'Abdullah Khatib',
-    experience: {
-        education: 'se @ york university',
-    },
-    links: {
-        github: 'https://github.com/KAbdullah',
-        linkedin: 'www.linkedin.com/in/huzaifa-raja'
-    },
-    quote: An expert was once a beginner, so learn 🤙
-}
+HELLO! My name is Abdullah Khatib, and I am a Software Developer.
 
 <!--
 **KAbdullah/KAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
