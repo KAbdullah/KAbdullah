@@ -1,5 +1,4 @@
 Hello! My name is Abdullah Khatib, and I am a Software Developer.
-
 <!--
 **KAbdullah/KAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
